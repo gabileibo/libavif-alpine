@@ -6,6 +6,12 @@ Can be used as a base image for other projects that need to use `avifenc` like a
 
 ## Usage
 
+### Docker
+
+```bash
+docker pull ghcr.io/gabileibo/libavif-alpine:latest
+```
+
 ### MacOS
 
 ```bash
